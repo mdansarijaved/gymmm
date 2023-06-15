@@ -4,7 +4,7 @@ export default function Heading() {
     return (
         <>
             <div className=' flex flex-col justify-center items-center py-12 hover:bg-[#fda441] transition duration-700 bg-[#e28523] mt-12 px-2  w-full'>
-                <h1 className=' lg:text-xl italic'>Special Prelaunch Offers Available for a Limited Time only!</h1>
+                <h1 className=' lg:text-xl italic text-center'>Special Prelaunch Offers Available for a Limited Time only!</h1>
                 <p className='opacity-60 pt-4'>Apply for ARC Membership NOW</p>
             </div>
             <div className=' flex bg-[#0a0a0a] justify-center relative'>
