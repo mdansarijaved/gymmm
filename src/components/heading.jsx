@@ -3,8 +3,8 @@ import { FaAngleDoubleLeft } from 'react-icons/fa';
 export default function Heading() {
     return (
         <>
-            <div className=' flex flex-col justify-center items-center py-12 hover:bg-[#fda441] transition duration-700 bg-[#e28523] mt-12  w-full'>
-                <h1 className='text-xl italic'>Special Prelaunch Offers Available for a Limited Time only!</h1>
+            <div className=' flex flex-col justify-center items-center py-12 hover:bg-[#fda441] transition duration-700 bg-[#e28523] mt-12 px-2  w-full'>
+                <h1 className=' lg:text-xl italic'>Special Prelaunch Offers Available for a Limited Time only!</h1>
                 <p className='opacity-60 pt-4'>Apply for ARC Membership NOW</p>
             </div>
             <div className=' flex bg-[#0a0a0a] justify-center relative'>
@@ -31,7 +31,7 @@ export default function Heading() {
                 </div>
 
             </div>
-            <div className='bg-white text-black  w-full px-28 py-20 text-center text-2xl'>
+            <div className='bg-white text-black  w-full px-28 py-20 text-center text-sm lg:text-2xl'>
                 <h1 className='[&>*]:text-[#fea844] text-gray-500'>ARC (Advanced Recalibration & Coaching) is a 9,500 sqft indoor fitness performance facility with four quadrants <span>Cardio Zone, Functional Groupx Circuit, Resistance Training</span> and <span> Free Weights</span> with access to a rooftop semi-Olympic-sized <span>swimming pool</span> and 650ft <span> jogging track.</span></h1>
             </div>
         </>
