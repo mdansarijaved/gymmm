@@ -12,6 +12,14 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      aspectRatio: {
+        '4/3': '4 / 3',
+      },
+      backgroundImage: {
+        'hero-pattern': "url('/images/gymm.jpg')",
+        'footer-texture': "url('/images/gymm2.jpg')",
+      },
+
     },
   },
   plugins: [],
