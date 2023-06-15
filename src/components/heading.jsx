@@ -12,9 +12,9 @@ export default function Heading() {
                 <div className='absolute text-7xl lg:text-[400px] opacity-20 arr1'>
                     <FaAngleDoubleLeft />
                 </div>
-                <div className='bg-transparent text-xl lg:text-3xl h-full absolute top-0 b6 left-0 flex flex-col justify-center items-center -z-10'>
+                <div className='bg-transparent text-sm lg:text-3xl h-full absolute top-0 b6 left-0 flex flex-col justify-center items-center -z-10'>
                     <p className='  opacity-100'>INDIA'S PREMIER ATHLETIC PERFORMANCE CENTRE</p>
-                    <p className=' text-xl lg:text-5xl italic py-3 opacity-100'>OPENING SOON IN CHENNAI</p>
+                    <p className=' text-sm lg:text-5xl italic py-3 opacity-100'>OPENING SOON IN CHENNAI</p>
                 </div>
 
 
