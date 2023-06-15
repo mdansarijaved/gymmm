@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
         © Copyright - ARC 2022
         </div>
-        <div>
+        <div className='hidden lg:block'>
             <ul className='flex justify-center gap-4 [&>*]:rounded-full py-3'>
                 <li className='p-2'>Contacts</li>
                 <li className='p-2'>Contacts</li>
